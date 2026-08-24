@@ -1,0 +1,6 @@
+{
+  "name": "SentinelRover — Underground Mine Safety & Rescue Platform",
+  "description": "Tactical underground mine safety and autonomous rescue rover platform featuring real-time Subterranean Tactical Radar, 3D Spatial Twin, Worker PIR Tracker, 10-Second Baseline Calibration, and Live Teleoperation.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
